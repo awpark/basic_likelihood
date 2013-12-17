@@ -15,6 +15,9 @@ The goals here are to
 \item use maximum likelihood to estimate the parameter
 \end{itemize}
 
+\section*{Andreas is adding some stuff to it}
+So far, so git
+
 \section*{Binomial processes}
 We always need to know something about the model we're working with in order to gain insight into how likely a model is to produce a certain pattern of data. For the chain binomial model, we need to understand some basics about binomial processes. 
 
